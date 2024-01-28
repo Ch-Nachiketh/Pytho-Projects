@@ -1,4 +1,4 @@
-# Build a Live Streaming App in Python
+# Streaming App in Python
 
 <h3>Create a virtual environment </h3>
 <code>pip3 install virtualenv </code> <br>
