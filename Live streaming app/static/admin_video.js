@@ -33,7 +33,7 @@ function addText() {
   c1Ctx.fillText(name.replace('(admin)', ''), 10, 215); // x, y of top-left
 }
 
-
+//int sess
 // Initialize session
 const session = OT.initSession(apiKey, sessionId)
 
